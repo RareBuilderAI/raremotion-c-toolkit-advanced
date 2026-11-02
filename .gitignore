@@ -1,0 +1,13 @@
+# Compiled programs
+raremotion
+test_project
+test_project_sanitized
+
+# Local project data
+data/*.txt
+
+# macOS files
+.DS_Store
+
+# Editor settings
+.vscode/

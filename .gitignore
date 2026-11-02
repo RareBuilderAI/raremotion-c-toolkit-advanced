@@ -11,3 +11,6 @@ data/*.txt
 
 # Editor settings
 .vscode/
+
+# macOS debugging files
+*.dSYM/
